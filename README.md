@@ -3,6 +3,5 @@
 The data manupulation processs involves  the following: the data manupulation processs involves  the following: 
 1. Min, max, median, and mean;
 2. Number of missing values.
-3. For each receiving CSV file, a data consistency report summarising the results of the tests is provided.
-4. The absence of columns from earlier reports or Null data.
-5. Data visualisation using Matlab 
+3. The absence of columns from earlier reports or Null data.
+4. Data visualisation using Matlab 
